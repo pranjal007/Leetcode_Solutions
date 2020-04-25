@@ -1,3 +1,4 @@
-#Introduction
 
-All the solutions are in java.
+# Introduction
+
+Leetcode solutions in Java ordered by difficulty level

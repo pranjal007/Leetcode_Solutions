@@ -4,7 +4,7 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         
-        if (nums == null || nums.length == 0 || nums.length == 1) {
+        if (nums.length == 0 || nums.length == 1) {
             return false;
         }
         

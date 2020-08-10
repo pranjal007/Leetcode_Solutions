@@ -1,7 +1,5 @@
 
-echo "Enter message"  
-
-set /p UserInputPath=What Directory would you like?
-echo %UserInputPath%
-make git m="%UserInputPath%"
+set /p commitMessage=Enter Your Commit Message!!
+echo %commitMessage%
+make git m="%commitMessage%"
 pause
